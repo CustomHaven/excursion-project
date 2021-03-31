@@ -1,0 +1,34 @@
+body {
+  color: white;
+  background-color: black;
+  text-align: center;
+  font-family: Verdana;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+.download {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.remembers {
+  font-size: 21px;
+  color: gray;
+}
+
+.phone-section {
+  margin-top: 40px;
+}
+
+footer {
+  text-align: right;
+  color: gray;
+}
